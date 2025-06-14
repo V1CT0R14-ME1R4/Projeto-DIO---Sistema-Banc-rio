@@ -1,3 +1,9 @@
+"""
+Sistema Bancário - v 2.0
+Desenvolvido por: [Victória Meira]
+Otimização do sistema bancário com funções para gerenciar usuários e contas.
+"""
+
 def menu():
     menu = """
 [d] Depositar
