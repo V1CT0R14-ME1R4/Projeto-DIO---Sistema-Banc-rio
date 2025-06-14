@@ -1,3 +1,9 @@
+"""
+Sistema Bancário - v 3.0
+Desenvolvido por: [Victória Meira]
+Modelagem com Programação Orientada a Objetos (POO).
+"""
+
 from abc import ABC, abstractmethod
 from datetime import datetime
 
